@@ -1,3 +1,4 @@
+
 ![Banner](./assets/twitchx.png)
 
 <div align="center">
@@ -19,13 +20,16 @@
 -   Object-oriented
 -   Low overhead
 -   Fast
--   API like [discord.js](https://www.npmjs.com/package/discord.js)
+-   API similar to [discord.js](https://www.npmjs.com/package/discord.js)
 -   99.99% coverage
 -   Extremely lightweight
 
-# Installation and Usage
+# Installation
 
-**Node.js v14 or newer is required.**
+
+
+
+**[Node.js v14](https://nodejs.org/en/)  or newer is required.**
 
 ```bash
 # Install with NPM:
@@ -43,7 +47,7 @@ const Twitch = require("twitchx");
 import * as Twitch from "twitchx";
 ```
 
-# Example
+# Example Usage
 
 ```ts
 import * as Twitch from "twitchx";
@@ -73,14 +77,14 @@ import * as Twitch from "twitchx";
 
 # Contributing
 
-Before opening an issue or contributing, make sure that it hasn't been opened or brought up already, or hasn't been done before/is being done.
+Before opening an issue or contributing, make sure that it hasn't been opened or brought up already, or hasn't been done before/is being done and please double-check the [documentation](https://twitchx.js.org/#/docs).
 
 Read [CONTRIBUTING.md](./CONTRIBUTING.md) for information on contributing.
 
-Submit a PR to the GitHub repo and have a collaborator review the changes.
+Submit a PR to the [GitHub Repository](https://github.com/cursorsdottsx/twitchx) and have a collaborator review the changes.
 
 # Help
 
-If you don't understand something or have trouble creating a feature with **twitchx**, hop in our [Discord](https://discord.gg/hMzQye6sWU) and ask away!
+If you don't understand something or have trouble creating a feature with **twitchx**, hop in our [Discord Server](https://discord.gg/hMzQye6sWU) and ask away!
 
 <div style="height: 1rem;"></div>
